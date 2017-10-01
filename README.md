@@ -1,3 +1,5 @@
 # exercise-repo4
 Repo made for exercise 4
-We resolve the conflict!  
+This project will contain...
+Repositionary made for exercises.
+Edited again in master branch..
